@@ -1,0 +1,17 @@
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\bin\Debug\netcoreapp3.1\vizsga3_casino.exe
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\bin\Debug\netcoreapp3.1\vizsga3_casino.deps.json
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\bin\Debug\netcoreapp3.1\vizsga3_casino.runtimeconfig.json
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\bin\Debug\netcoreapp3.1\vizsga3_casino.runtimeconfig.dev.json
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\bin\Debug\netcoreapp3.1\vizsga3_casino.dll
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\bin\Debug\netcoreapp3.1\vizsga3_casino.pdb
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\obj\Debug\netcoreapp3.1\vizsga3_casino.csproj.AssemblyReference.cache
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\obj\Debug\netcoreapp3.1\vizsga3_casino.Form1.resources
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\obj\Debug\netcoreapp3.1\vizsga3_casino.csproj.GenerateResource.cache
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\obj\Debug\netcoreapp3.1\vizsga3_casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\obj\Debug\netcoreapp3.1\vizsga3_casino.AssemblyInfoInputs.cache
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\obj\Debug\netcoreapp3.1\vizsga3_casino.AssemblyInfo.cs
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\obj\Debug\netcoreapp3.1\vizsga3_casino.csproj.CoreCompileInputs.cache
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\obj\Debug\netcoreapp3.1\vizsga3_casino.dll
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\obj\Debug\netcoreapp3.1\vizsga3_casino.pdb
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\obj\Debug\netcoreapp3.1\vizsga3_casino.genruntimeconfig.cache
+C:\Users\14SZFT\source\repos\vizsga3_casino\vizsga3_casino\obj\Debug\netcoreapp3.1\vizsga3_casino.Properties.Resources.resources
